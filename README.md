@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lucifer0329
+- 👋 Hi, I’m Gaurav katre
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning C and SQL.
+- 🌱 I’m currently learning Java, Data Science, and Machine learning.
 
 <!---
 Lucifer0329/Lucifer0329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
